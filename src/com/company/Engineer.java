@@ -1,8 +1,7 @@
 package com.company;
 
 /*
-All engineers are employees
-but all employees are not engineers
+This is an Engineer who is also an employee 
 */
 public class Engineer extends Employee {
 
